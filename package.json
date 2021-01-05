@@ -10,7 +10,7 @@
     "@mdi/js": "^4.6.95",
     "@vue/component-compiler-utils": "^3.0.2",
     "address": "^1.1.2",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chalk": "^3.0.0",
     "core-js": "^2.6.5",
     "cors": "^2.8.5",
