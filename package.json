@@ -18,7 +18,7 @@
     "dotenv-expand": "^5.1.0",
     "material-icons": "^0.3.1",
     "mvn": "^3.5.0",
-    "postcss": "^7.0.23",
+    "postcss": "^8.2.10",
     "postcss-selector-parser": "^6.0.2",
     "source-map": "^0.7.3",
     "sweetalert2": "^8.19.0",
